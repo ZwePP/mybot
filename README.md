@@ -12,4 +12,4 @@ AI assistant for my daily personal uses.
 - HuggingFace (future development)
 - LangChain (future developent)
 
-!["Example output"]("img/use_example_1.png")
+!["Example output"](img/use_example_1.png)
